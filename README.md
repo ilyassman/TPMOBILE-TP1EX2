@@ -51,4 +51,4 @@ Le fichier `activity_main.xml` définit la disposition de l'application :
 - **Bibliothèques** : AndroidX
 
 ## Screen Video
-[![Vidéo de démonstration]]([https://github.com/user-attachments/assets/a60bcd02-e32b-48e4-90e2-87621d7b3b23](https://github.com/ilyassman/TPMOBILE-TP1EX2/blob/5da56308c85d21ea0990d2e033fcb2761ac56637/TP1EX2.webm)
+[![Vidéo de démonstration]](https://github.com/ilyassman/TPMOBILE-TP1EX2/blob/5da56308c85d21ea0990d2e033fcb2761ac56637/TP1EX2.webm)
