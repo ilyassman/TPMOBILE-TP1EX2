@@ -50,6 +50,5 @@ Le fichier `activity_main.xml` définit la disposition de l'application :
 - **SDK Android** : Version 21 ou supérieure
 - **Bibliothèques** : AndroidX
 
-## Remarques
-
-Assurez-vous d'avoir les permissions nécessaires et les configurations de projet adéquates pour exécuter l'application correctement. Pour toute question ou problème, n'hésitez pas à ouvrir une issue dans ce dépôt.
+## Screen Video
+[![Vidéo de démonstration]]([https://github.com/user-attachments/assets/a60bcd02-e32b-48e4-90e2-87621d7b3b23](https://github.com/ilyassman/TPMOBILE-TP1EX2/blob/5da56308c85d21ea0990d2e033fcb2761ac56637/TP1EX2.webm)
